@@ -12,7 +12,7 @@ This is an RESTful API that uses default form bases authentiction to see the end
   <h2>Properties</h2>
   <p>
    -> there are two endpoints <br>
-    1. hello
+    1. hello<br>
     2. user <br>
    -> we can add new user and get all user or individual user by Id.
   
